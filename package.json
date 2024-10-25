@@ -1,0 +1,20 @@
+{
+  "name": "zhangxf-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "@vuepress/core": "^1.9.10",
+    "@vuepress/theme-default": "^1.9.10"
+  }
+}
