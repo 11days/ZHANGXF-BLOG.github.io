@@ -1,3 +1,6 @@
+### Title
+### 注意，index.html要放在 / 目录下，详情参考 github pages 404 文档
+
 此仓库是公众号【**CppGuide**】文章汇总，作者是张小方，clone或转发仓库文章时时请保留作者信息。
 
 > CppGuide仓库配有专门的微信维护和交流群，加微信easy_coder备注“cppguide仓库”拉你进群。
